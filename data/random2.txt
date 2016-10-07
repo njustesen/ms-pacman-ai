@@ -1,0 +1,1424 @@
+Testing fitness for: [pillValue=-689, pillMultiplier=6.34380360846864, powerPillValue=183, ghostValue=4704, deathValue=5114, winValue=1318, stepValue=999, dangerDistance=17, killDistance=7, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-932, pillMultiplier=5.268412621563709, powerPillValue=-259, ghostValue=2611, deathValue=6167, winValue=-1755, stepValue=418, dangerDistance=99, killDistance=97, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=393, pillMultiplier=6.510725817656322, powerPillValue=696, ghostValue=-382, deathValue=9528, winValue=228, stepValue=744, dangerDistance=36, killDistance=94, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=336, pillMultiplier=-5.049699749125979, powerPillValue=731, ghostValue=-3742, deathValue=-9984, winValue=-8470, stepValue=-522, dangerDistance=87, killDistance=43, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-90, pillMultiplier=-7.980718136530404, powerPillValue=527, ghostValue=-6868, deathValue=-4304, winValue=-7131, stepValue=-496, dangerDistance=63, killDistance=17, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-215, pillMultiplier=2.3974323203206804, powerPillValue=-140, ghostValue=8792, deathValue=1587, winValue=-8204, stepValue=-769, dangerDistance=24, killDistance=77, mutated=0]
+0	190
+1	190
+2	170
+Testing fitness for: [pillValue=378, pillMultiplier=1.2341300131004385, powerPillValue=936, ghostValue=-7438, deathValue=-5114, winValue=3572, stepValue=484, dangerDistance=55, killDistance=38, mutated=0]
+0	840
+1	1660
+2	1070
+Testing fitness for: [pillValue=530, pillMultiplier=5.241908869215608, powerPillValue=-844, ghostValue=1925, deathValue=-9501, winValue=8359, stepValue=790, dangerDistance=77, killDistance=97, mutated=0]
+0	100
+1	100
+2	100
+Testing fitness for: [pillValue=307, pillMultiplier=1.0730761569208553, powerPillValue=721, ghostValue=-3859, deathValue=1967, winValue=-9107, stepValue=-579, dangerDistance=14, killDistance=37, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-158, pillMultiplier=-3.5326823487154684, powerPillValue=858, ghostValue=-2736, deathValue=-4373, winValue=1109, stepValue=464, dangerDistance=26, killDistance=48, mutated=0]
+0	1230
+1	530
+2	1210
+Testing fitness for: [pillValue=-889, pillMultiplier=-1.99767814803079, powerPillValue=514, ghostValue=1678, deathValue=-7915, winValue=8779, stepValue=-735, dangerDistance=75, killDistance=40, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-354, pillMultiplier=-6.350578090461852, powerPillValue=-35, ghostValue=3126, deathValue=-3963, winValue=-7408, stepValue=589, dangerDistance=84, killDistance=85, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-349, pillMultiplier=4.376272981426851, powerPillValue=-163, ghostValue=3226, deathValue=-9198, winValue=-1736, stepValue=-253, dangerDistance=24, killDistance=24, mutated=0]
+0	50
+1	50
+2	50
+Testing fitness for: [pillValue=240, pillMultiplier=3.0511468068042884, powerPillValue=376, ghostValue=4735, deathValue=-5006, winValue=-5461, stepValue=-601, dangerDistance=44, killDistance=31, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-486, pillMultiplier=-1.3538170838836, powerPillValue=629, ghostValue=9677, deathValue=-1087, winValue=-4386, stepValue=288, dangerDistance=20, killDistance=68, mutated=0]
+0	100
+1	150
+2	1810
+Testing fitness for: [pillValue=190, pillMultiplier=2.5109113553296307, powerPillValue=-570, ghostValue=993, deathValue=1391, winValue=8924, stepValue=-386, dangerDistance=92, killDistance=49, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=79, pillMultiplier=7.2915216245871335, powerPillValue=34, ghostValue=-5492, deathValue=3084, winValue=-6320, stepValue=65, dangerDistance=49, killDistance=80, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=480, pillMultiplier=5.94497705400622, powerPillValue=236, ghostValue=-1905, deathValue=-2178, winValue=889, stepValue=-817, dangerDistance=45, killDistance=91, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=992, pillMultiplier=-1.5396682411525973, powerPillValue=-433, ghostValue=-9524, deathValue=-4999, winValue=-4288, stepValue=121, dangerDistance=2, killDistance=41, mutated=0]
+0	930
+1	880
+2	970
+Testing fitness for: [pillValue=450, pillMultiplier=8.217140712334363, powerPillValue=261, ghostValue=6157, deathValue=-9141, winValue=2647, stepValue=-44, dangerDistance=59, killDistance=74, mutated=0]
+0	530
+1	530
+2	530
+Testing fitness for: [pillValue=-682, pillMultiplier=2.423054280624619, powerPillValue=302, ghostValue=7759, deathValue=-9430, winValue=2948, stepValue=619, dangerDistance=31, killDistance=84, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-398, pillMultiplier=8.1740288561031, powerPillValue=-115, ghostValue=6200, deathValue=7448, winValue=-6189, stepValue=465, dangerDistance=80, killDistance=43, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=394, pillMultiplier=2.810896553361065, powerPillValue=-801, ghostValue=603, deathValue=-4565, winValue=-2826, stepValue=600, dangerDistance=14, killDistance=64, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=534, pillMultiplier=-8.447671122019909, powerPillValue=149, ghostValue=8105, deathValue=8578, winValue=-5765, stepValue=-395, dangerDistance=27, killDistance=70, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-891, pillMultiplier=-4.45256120972727, powerPillValue=606, ghostValue=-1355, deathValue=-1530, winValue=1637, stepValue=-891, dangerDistance=5, killDistance=28, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-766, pillMultiplier=-6.215488192026246, powerPillValue=821, ghostValue=-4329, deathValue=9708, winValue=-2977, stepValue=973, dangerDistance=43, killDistance=3, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-398, pillMultiplier=3.5350993709703644, powerPillValue=-669, ghostValue=-656, deathValue=-278, winValue=-9884, stepValue=953, dangerDistance=50, killDistance=72, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=438, pillMultiplier=-1.326257627133355, powerPillValue=709, ghostValue=2849, deathValue=-9725, winValue=4251, stepValue=-753, dangerDistance=81, killDistance=31, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-270, pillMultiplier=-2.768326628753459, powerPillValue=-159, ghostValue=-4087, deathValue=-2005, winValue=3825, stepValue=348, dangerDistance=13, killDistance=82, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-447, pillMultiplier=-6.624456314618072, powerPillValue=-309, ghostValue=-6866, deathValue=9464, winValue=-1777, stepValue=-352, dangerDistance=25, killDistance=66, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-78, pillMultiplier=3.2944029279992133, powerPillValue=904, ghostValue=2146, deathValue=4789, winValue=-3071, stepValue=497, dangerDistance=16, killDistance=31, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=876, pillMultiplier=1.3647568746063055, powerPillValue=734, ghostValue=-8797, deathValue=3254, winValue=-3254, stepValue=-610, dangerDistance=5, killDistance=21, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=423, pillMultiplier=-5.351998809795555, powerPillValue=159, ghostValue=-1791, deathValue=3229, winValue=-5959, stepValue=681, dangerDistance=1, killDistance=21, mutated=0]
+0	60
+1	130
+2	60
+Testing fitness for: [pillValue=951, pillMultiplier=-6.35176508612086, powerPillValue=373, ghostValue=4215, deathValue=4013, winValue=-2121, stepValue=-66, dangerDistance=45, killDistance=22, mutated=0]
+0	360
+1	360
+2	360
+Testing fitness for: [pillValue=-915, pillMultiplier=-6.548277779335441, powerPillValue=-299, ghostValue=-4611, deathValue=-3578, winValue=8351, stepValue=79, dangerDistance=19, killDistance=22, mutated=0]
+0	250
+1	190
+2	190
+Testing fitness for: [pillValue=-759, pillMultiplier=4.249499300223567, powerPillValue=572, ghostValue=-8467, deathValue=2530, winValue=4365, stepValue=193, dangerDistance=73, killDistance=97, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=586, pillMultiplier=8.611598453211318, powerPillValue=440, ghostValue=114, deathValue=-6649, winValue=-4773, stepValue=-2, dangerDistance=71, killDistance=93, mutated=0]
+0	210
+1	210
+2	210
+Testing fitness for: [pillValue=-768, pillMultiplier=-3.185608649010163, powerPillValue=406, ghostValue=-3781, deathValue=-4820, winValue=-1736, stepValue=912, dangerDistance=26, killDistance=80, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-815, pillMultiplier=4.756069190410008, powerPillValue=193, ghostValue=-4668, deathValue=570, winValue=8512, stepValue=332, dangerDistance=20, killDistance=58, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=304, pillMultiplier=2.7104386350042766, powerPillValue=-921, ghostValue=-431, deathValue=8455, winValue=-3719, stepValue=-720, dangerDistance=5, killDistance=54, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=783, pillMultiplier=-4.300898230502366, powerPillValue=-166, ghostValue=-4044, deathValue=-132, winValue=-6892, stepValue=-81, dangerDistance=21, killDistance=87, mutated=0]
+0	750
+1	750
+2	750
+Testing fitness for: [pillValue=-798, pillMultiplier=-7.821056319535846, powerPillValue=-242, ghostValue=2681, deathValue=7994, winValue=-8292, stepValue=-653, dangerDistance=91, killDistance=61, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=121, pillMultiplier=0.24985456591542743, powerPillValue=-866, ghostValue=7990, deathValue=962, winValue=5910, stepValue=111, dangerDistance=41, killDistance=58, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=287, pillMultiplier=-6.190242291860719, powerPillValue=831, ghostValue=-8101, deathValue=5136, winValue=9852, stepValue=489, dangerDistance=92, killDistance=10, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-969, pillMultiplier=-2.370472425063852, powerPillValue=90, ghostValue=8677, deathValue=-9428, winValue=-3109, stepValue=818, dangerDistance=57, killDistance=27, mutated=0]
+0	440
+1	270
+2	260
+Testing fitness for: [pillValue=308, pillMultiplier=-2.65944017434669, powerPillValue=-194, ghostValue=-834, deathValue=1910, winValue=2621, stepValue=-404, dangerDistance=60, killDistance=7, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=318, pillMultiplier=-3.859003860167938, powerPillValue=854, ghostValue=-3124, deathValue=-5500, winValue=-8154, stepValue=-198, dangerDistance=9, killDistance=6, mutated=0]
+0	80
+1	80
+2	80
+Testing fitness for: [pillValue=297, pillMultiplier=2.1555984308588414, powerPillValue=-226, ghostValue=5060, deathValue=5556, winValue=-983, stepValue=704, dangerDistance=87, killDistance=30, mutated=0]
+0	60
+1	80
+2	60
+Testing fitness for: [pillValue=-457, pillMultiplier=3.980012271439886, powerPillValue=309, ghostValue=8334, deathValue=-1390, winValue=-6723, stepValue=737, dangerDistance=81, killDistance=59, mutated=0]
+0	1120
+1	2500
+2	290
+Testing fitness for: [pillValue=541, pillMultiplier=7.82519885383044, powerPillValue=-807, ghostValue=5388, deathValue=2545, winValue=1943, stepValue=551, dangerDistance=75, killDistance=66, mutated=0]
+0	80
+1	80
+2	80
+Testing fitness for: [pillValue=-642, pillMultiplier=-6.975780160125911, powerPillValue=188, ghostValue=-3744, deathValue=-5466, winValue=5712, stepValue=444, dangerDistance=65, killDistance=95, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-983, pillMultiplier=3.946269396580231, powerPillValue=-183, ghostValue=-7645, deathValue=-1628, winValue=4188, stepValue=144, dangerDistance=97, killDistance=7, mutated=0]
+0	250
+1	250
+2	240
+Testing fitness for: [pillValue=479, pillMultiplier=1.854082980367469, powerPillValue=429, ghostValue=2064, deathValue=4492, winValue=-5671, stepValue=396, dangerDistance=36, killDistance=14, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-751, pillMultiplier=-0.06385582214129393, powerPillValue=-380, ghostValue=-5004, deathValue=-1660, winValue=5653, stepValue=483, dangerDistance=41, killDistance=87, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-974, pillMultiplier=1.2365417638174918, powerPillValue=-218, ghostValue=3251, deathValue=-355, winValue=-9545, stepValue=457, dangerDistance=80, killDistance=26, mutated=0]
+0	90
+1	90
+2	90
+Testing fitness for: [pillValue=-834, pillMultiplier=-8.35719326866133, powerPillValue=-267, ghostValue=3554, deathValue=6235, winValue=-5463, stepValue=259, dangerDistance=99, killDistance=11, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=168, pillMultiplier=-4.372159331150685, powerPillValue=-570, ghostValue=6463, deathValue=-7897, winValue=2080, stepValue=-73, dangerDistance=13, killDistance=93, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=706, pillMultiplier=1.8354337319136746, powerPillValue=-302, ghostValue=-7881, deathValue=-9646, winValue=7453, stepValue=-44, dangerDistance=63, killDistance=20, mutated=0]
+0	1080
+1	1530
+2	1080
+Testing fitness for: [pillValue=255, pillMultiplier=-3.9622188171531425, powerPillValue=-557, ghostValue=-8635, deathValue=169, winValue=-6864, stepValue=807, dangerDistance=68, killDistance=49, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=873, pillMultiplier=-1.4919468029814205, powerPillValue=621, ghostValue=-5488, deathValue=2755, winValue=-2716, stepValue=912, dangerDistance=42, killDistance=47, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=195, pillMultiplier=6.911443905244031, powerPillValue=-256, ghostValue=-5183, deathValue=-4117, winValue=-4111, stepValue=300, dangerDistance=12, killDistance=41, mutated=0]
+0	690
+1	1110
+2	750
+Testing fitness for: [pillValue=-290, pillMultiplier=7.750221266957233, powerPillValue=222, ghostValue=3585, deathValue=7751, winValue=9977, stepValue=-45, dangerDistance=99, killDistance=37, mutated=0]
+0	70
+1	70
+2	140
+Testing fitness for: [pillValue=-935, pillMultiplier=-7.302077415032553, powerPillValue=484, ghostValue=7866, deathValue=8412, winValue=4395, stepValue=61, dangerDistance=61, killDistance=32, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-170, pillMultiplier=6.689183707560883, powerPillValue=-707, ghostValue=-4542, deathValue=-862, winValue=-712, stepValue=-344, dangerDistance=51, killDistance=16, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=666, pillMultiplier=3.944658902418144, powerPillValue=-457, ghostValue=-8211, deathValue=9389, winValue=-7134, stepValue=384, dangerDistance=13, killDistance=44, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=224, pillMultiplier=-3.5002845322685827, powerPillValue=-983, ghostValue=4665, deathValue=5111, winValue=6994, stepValue=907, dangerDistance=4, killDistance=70, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=431, pillMultiplier=-8.298689818215387, powerPillValue=-325, ghostValue=8186, deathValue=-651, winValue=8981, stepValue=979, dangerDistance=12, killDistance=32, mutated=0]
+0	100
+1	100
+2	100
+Testing fitness for: [pillValue=-600, pillMultiplier=4.85522992777395, powerPillValue=-689, ghostValue=9759, deathValue=-2553, winValue=-961, stepValue=973, dangerDistance=84, killDistance=79, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=304, pillMultiplier=-5.945636632481392, powerPillValue=-535, ghostValue=1919, deathValue=-3761, winValue=-728, stepValue=-516, dangerDistance=67, killDistance=76, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=823, pillMultiplier=-7.929831104314902, powerPillValue=-669, ghostValue=2383, deathValue=-9927, winValue=-2649, stepValue=234, dangerDistance=22, killDistance=23, mutated=0]
+0	3870
+1	3520
+2	2520
+Testing fitness for: [pillValue=-693, pillMultiplier=6.278995106740123, powerPillValue=190, ghostValue=2464, deathValue=8401, winValue=-2764, stepValue=344, dangerDistance=64, killDistance=85, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=615, pillMultiplier=-4.061714512915211, powerPillValue=-133, ghostValue=-4386, deathValue=-6005, winValue=7633, stepValue=713, dangerDistance=62, killDistance=22, mutated=0]
+0	1750
+1	910
+2	1980
+Testing fitness for: [pillValue=-326, pillMultiplier=6.574793813917097, powerPillValue=735, ghostValue=-6011, deathValue=5002, winValue=8549, stepValue=-936, dangerDistance=6, killDistance=30, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-954, pillMultiplier=9.809756312803998, powerPillValue=329, ghostValue=-8035, deathValue=8867, winValue=1945, stepValue=-597, dangerDistance=80, killDistance=84, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-179, pillMultiplier=0.6682527322456888, powerPillValue=428, ghostValue=9134, deathValue=-5943, winValue=4718, stepValue=-625, dangerDistance=96, killDistance=5, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=404, pillMultiplier=-1.3218765117698457, powerPillValue=795, ghostValue=-8588, deathValue=-7397, winValue=-324, stepValue=-953, dangerDistance=62, killDistance=52, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-442, pillMultiplier=-9.711620820708696, powerPillValue=892, ghostValue=-7444, deathValue=5111, winValue=-4190, stepValue=-63, dangerDistance=80, killDistance=62, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-136, pillMultiplier=1.2518481461451607, powerPillValue=-206, ghostValue=-5345, deathValue=5773, winValue=6366, stepValue=-502, dangerDistance=30, killDistance=62, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-352, pillMultiplier=-7.605402268699361, powerPillValue=-173, ghostValue=-8411, deathValue=3600, winValue=748, stepValue=507, dangerDistance=27, killDistance=80, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=755, pillMultiplier=1.0615060747608869, powerPillValue=636, ghostValue=8826, deathValue=-4565, winValue=-3334, stepValue=-303, dangerDistance=30, killDistance=89, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=135, pillMultiplier=1.565456075491845, powerPillValue=46, ghostValue=2135, deathValue=2726, winValue=-140, stepValue=-376, dangerDistance=9, killDistance=52, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=952, pillMultiplier=7.3081048838260685, powerPillValue=-852, ghostValue=-1872, deathValue=-6833, winValue=-8222, stepValue=799, dangerDistance=15, killDistance=20, mutated=0]
+0	1440
+1	1800
+2	1590
+Testing fitness for: [pillValue=-828, pillMultiplier=-4.615197087335352, powerPillValue=462, ghostValue=-7570, deathValue=-3805, winValue=-3368, stepValue=413, dangerDistance=29, killDistance=39, mutated=0]
+0	460
+1	370
+2	570
+Testing fitness for: [pillValue=55, pillMultiplier=-2.1501264601463665, powerPillValue=-321, ghostValue=9204, deathValue=-7852, winValue=1594, stepValue=178, dangerDistance=60, killDistance=93, mutated=0]
+0	200
+1	100
+2	100
+Testing fitness for: [pillValue=45, pillMultiplier=-3.8904510497536204, powerPillValue=933, ghostValue=4424, deathValue=1788, winValue=-3322, stepValue=620, dangerDistance=28, killDistance=95, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=-324, pillMultiplier=-4.919666556300378, powerPillValue=527, ghostValue=6627, deathValue=-3058, winValue=865, stepValue=819, dangerDistance=93, killDistance=47, mutated=0]
+0	1700
+1	1700
+2	1820
+Testing fitness for: [pillValue=-622, pillMultiplier=9.214019311544057, powerPillValue=-132, ghostValue=-7820, deathValue=-8687, winValue=-3237, stepValue=-936, dangerDistance=88, killDistance=62, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=340, pillMultiplier=4.256914555413726, powerPillValue=629, ghostValue=666, deathValue=-2620, winValue=-387, stepValue=-965, dangerDistance=97, killDistance=82, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=7, pillMultiplier=-6.168479922175003, powerPillValue=-642, ghostValue=9495, deathValue=-4664, winValue=7312, stepValue=-805, dangerDistance=56, killDistance=68, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-738, pillMultiplier=6.404874343987881, powerPillValue=-986, ghostValue=2913, deathValue=-9494, winValue=6465, stepValue=-935, dangerDistance=15, killDistance=43, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-429, pillMultiplier=5.6262444744087325, powerPillValue=952, ghostValue=292, deathValue=-682, winValue=-8251, stepValue=624, dangerDistance=22, killDistance=57, mutated=0]
+0	630
+1	2180
+2	1030
+Testing fitness for: [pillValue=833, pillMultiplier=-9.69325982207849, powerPillValue=-17, ghostValue=3651, deathValue=8471, winValue=-4540, stepValue=691, dangerDistance=87, killDistance=3, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-863, pillMultiplier=-3.863890937364345, powerPillValue=-139, ghostValue=6299, deathValue=-2948, winValue=-5543, stepValue=343, dangerDistance=17, killDistance=63, mutated=0]
+0	2680
+1	1780
+2	1830
+Testing fitness for: [pillValue=148, pillMultiplier=9.246925235555441, powerPillValue=-10, ghostValue=2122, deathValue=-7676, winValue=3839, stepValue=-867, dangerDistance=46, killDistance=17, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-839, pillMultiplier=7.908252286358394, powerPillValue=-164, ghostValue=3817, deathValue=-3171, winValue=2098, stepValue=-761, dangerDistance=36, killDistance=8, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-510, pillMultiplier=-1.5321846304392377, powerPillValue=-447, ghostValue=6733, deathValue=-7754, winValue=181, stepValue=-75, dangerDistance=16, killDistance=75, mutated=0]
+0	20
+1	10
+2	10
+Testing fitness for: [pillValue=-423, pillMultiplier=2.4950806122939433, powerPillValue=230, ghostValue=-5398, deathValue=6716, winValue=-9383, stepValue=-917, dangerDistance=16, killDistance=59, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=90, pillMultiplier=-5.163259434890161, powerPillValue=170, ghostValue=-7349, deathValue=1187, winValue=4063, stepValue=-405, dangerDistance=3, killDistance=95, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-562, pillMultiplier=-9.782218390430923, powerPillValue=581, ghostValue=6346, deathValue=3357, winValue=3975, stepValue=-635, dangerDistance=26, killDistance=66, mutated=0]
+0	80
+1	80
+2	80
+Testing fitness for: [pillValue=-186, pillMultiplier=0.13314709982383555, powerPillValue=-863, ghostValue=3895, deathValue=-3382, winValue=-765, stepValue=-42, dangerDistance=57, killDistance=49, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-157, pillMultiplier=-8.540011845009035, powerPillValue=-209, ghostValue=-71, deathValue=-3311, winValue=5036, stepValue=-529, dangerDistance=62, killDistance=0, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-27, pillMultiplier=-6.1286552262569955, powerPillValue=-770, ghostValue=8458, deathValue=-7480, winValue=9014, stepValue=-325, dangerDistance=13, killDistance=38, mutated=0]
+0	50
+1	50
+2	50
+Testing fitness for: [pillValue=-326, pillMultiplier=4.603929197888855, powerPillValue=763, ghostValue=-7877, deathValue=7168, winValue=-1855, stepValue=533, dangerDistance=6, killDistance=12, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=425, pillMultiplier=-0.4965123004265628, powerPillValue=581, ghostValue=-765, deathValue=2572, winValue=4187, stepValue=1, dangerDistance=79, killDistance=35, mutated=0]
+0	360
+1	360
+2	360
+Testing fitness for: [pillValue=-785, pillMultiplier=1.7299724003316825, powerPillValue=-975, ghostValue=-124, deathValue=531, winValue=-6992, stepValue=421, dangerDistance=84, killDistance=78, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=550, pillMultiplier=-9.566621576033072, powerPillValue=-83, ghostValue=571, deathValue=8244, winValue=6970, stepValue=-487, dangerDistance=28, killDistance=45, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-91, pillMultiplier=1.681640968038593, powerPillValue=-398, ghostValue=-443, deathValue=2951, winValue=-7826, stepValue=819, dangerDistance=62, killDistance=40, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=308, pillMultiplier=-2.8301464924408144, powerPillValue=-174, ghostValue=5165, deathValue=-7310, winValue=-4513, stepValue=-135, dangerDistance=29, killDistance=8, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=583, pillMultiplier=2.6137473663074466, powerPillValue=-399, ghostValue=-5511, deathValue=-2883, winValue=6728, stepValue=901, dangerDistance=20, killDistance=1, mutated=0]
+0	1600
+1	1620
+2	1970
+Testing fitness for: [pillValue=-695, pillMultiplier=1.5254044297827072, powerPillValue=545, ghostValue=5058, deathValue=-4934, winValue=9725, stepValue=579, dangerDistance=99, killDistance=29, mutated=0]
+0	180
+1	180
+2	2050
+Testing fitness for: [pillValue=-167, pillMultiplier=7.388020627755424, powerPillValue=-928, ghostValue=7878, deathValue=-980, winValue=6859, stepValue=48, dangerDistance=67, killDistance=57, mutated=0]
+0	3510
+1	680
+2	2020
+Testing fitness for: [pillValue=-909, pillMultiplier=-0.8510781828908005, powerPillValue=709, ghostValue=3371, deathValue=-9367, winValue=52, stepValue=433, dangerDistance=86, killDistance=53, mutated=0]
+0	260
+1	1070
+2	260
+Testing fitness for: [pillValue=18, pillMultiplier=-5.714432133839438, powerPillValue=254, ghostValue=-3431, deathValue=-5780, winValue=-818, stepValue=848, dangerDistance=24, killDistance=6, mutated=0]
+0	4640
+1	5730
+2	5430
+Testing fitness for: [pillValue=323, pillMultiplier=-0.8633148410680711, powerPillValue=386, ghostValue=-9077, deathValue=8701, winValue=7431, stepValue=871, dangerDistance=7, killDistance=42, mutated=0]
+0	60
+1	60
+2	60
+Testing fitness for: [pillValue=588, pillMultiplier=7.585374877610143, powerPillValue=-445, ghostValue=-1698, deathValue=-7107, winValue=-5508, stepValue=-769, dangerDistance=49, killDistance=8, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=387, pillMultiplier=4.046155730444113, powerPillValue=-581, ghostValue=-3414, deathValue=-117, winValue=-6297, stepValue=-4, dangerDistance=15, killDistance=29, mutated=0]
+0	1080
+1	1060
+2	2080
+Testing fitness for: [pillValue=-970, pillMultiplier=-3.740119159479189, powerPillValue=306, ghostValue=9687, deathValue=-9991, winValue=-4669, stepValue=-939, dangerDistance=13, killDistance=75, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-1, pillMultiplier=8.246381133373141, powerPillValue=-384, ghostValue=6825, deathValue=7318, winValue=-5059, stepValue=722, dangerDistance=59, killDistance=7, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-188, pillMultiplier=-0.9706743326655154, powerPillValue=685, ghostValue=1413, deathValue=7814, winValue=-8498, stepValue=782, dangerDistance=59, killDistance=61, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=954, pillMultiplier=6.406798364468788, powerPillValue=-639, ghostValue=7304, deathValue=-9727, winValue=1582, stepValue=628, dangerDistance=79, killDistance=36, mutated=0]
+0	2990
+1	1290
+2	2530
+Testing fitness for: [pillValue=205, pillMultiplier=0.7535264089124549, powerPillValue=-641, ghostValue=-5260, deathValue=-103, winValue=5264, stepValue=-566, dangerDistance=22, killDistance=81, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-940, pillMultiplier=-3.2760385101476945, powerPillValue=316, ghostValue=-5906, deathValue=-2358, winValue=-2687, stepValue=-912, dangerDistance=76, killDistance=61, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=785, pillMultiplier=-7.411975005230995, powerPillValue=-397, ghostValue=9928, deathValue=-3228, winValue=6927, stepValue=838, dangerDistance=47, killDistance=8, mutated=0]
+0	4850
+1	9490
+2	14640
+Testing fitness for: [pillValue=20, pillMultiplier=-2.5821892372635835, powerPillValue=-32, ghostValue=9660, deathValue=-5464, winValue=9810, stepValue=395, dangerDistance=67, killDistance=40, mutated=0]
+0	5260
+1	5000
+2	3560
+Testing fitness for: [pillValue=-811, pillMultiplier=-8.283066449513633, powerPillValue=67, ghostValue=2465, deathValue=-119, winValue=427, stepValue=-250, dangerDistance=95, killDistance=17, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-784, pillMultiplier=5.445967673264365, powerPillValue=703, ghostValue=-4550, deathValue=-7936, winValue=1146, stepValue=-61, dangerDistance=8, killDistance=99, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=951, pillMultiplier=-5.783128354868232, powerPillValue=-12, ghostValue=7008, deathValue=-8308, winValue=2592, stepValue=553, dangerDistance=52, killDistance=17, mutated=0]
+0	8960
+1	1820
+2	5320
+Testing fitness for: [pillValue=406, pillMultiplier=9.477630139716435, powerPillValue=424, ghostValue=-1313, deathValue=3257, winValue=7289, stepValue=-810, dangerDistance=50, killDistance=18, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=811, pillMultiplier=-9.310970053714332, powerPillValue=19, ghostValue=4899, deathValue=-9945, winValue=-2671, stepValue=269, dangerDistance=46, killDistance=32, mutated=0]
+0	3180
+1	3870
+2	4260
+Testing fitness for: [pillValue=694, pillMultiplier=5.543651823574287, powerPillValue=-223, ghostValue=-3174, deathValue=4424, winValue=1294, stepValue=416, dangerDistance=89, killDistance=69, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=248, pillMultiplier=4.343878684363737, powerPillValue=-334, ghostValue=-4073, deathValue=-2999, winValue=2954, stepValue=655, dangerDistance=34, killDistance=8, mutated=0]
+0	5840
+1	1840
+2	1490
+Testing fitness for: [pillValue=622, pillMultiplier=-3.5824099306919805, powerPillValue=142, ghostValue=-1249, deathValue=-2095, winValue=-8163, stepValue=-803, dangerDistance=34, killDistance=53, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=248, pillMultiplier=5.010033867030392, powerPillValue=404, ghostValue=9293, deathValue=-7950, winValue=-2990, stepValue=175, dangerDistance=56, killDistance=6, mutated=0]
+0	18610
+1	11180
+2	17980
+Testing fitness for: [pillValue=-145, pillMultiplier=-1.440619250544838, powerPillValue=497, ghostValue=2541, deathValue=5457, winValue=-4806, stepValue=-143, dangerDistance=16, killDistance=26, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=502, pillMultiplier=0.5408747340068505, powerPillValue=281, ghostValue=-4385, deathValue=3035, winValue=9010, stepValue=-121, dangerDistance=71, killDistance=34, mutated=0]
+0	590
+1	590
+2	590
+Testing fitness for: [pillValue=595, pillMultiplier=-5.0449783223926215, powerPillValue=-5, ghostValue=-1893, deathValue=-4898, winValue=478, stepValue=810, dangerDistance=36, killDistance=49, mutated=0]
+0	610
+1	580
+2	610
+Testing fitness for: [pillValue=70, pillMultiplier=6.803028062154237, powerPillValue=-132, ghostValue=6439, deathValue=-9903, winValue=7990, stepValue=974, dangerDistance=86, killDistance=29, mutated=0]
+0	2750
+1	3620
+2	2780
+Testing fitness for: [pillValue=-373, pillMultiplier=9.330986546854273, powerPillValue=426, ghostValue=-6335, deathValue=5162, winValue=-3448, stepValue=-988, dangerDistance=68, killDistance=49, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=243, pillMultiplier=6.78620646532487, powerPillValue=446, ghostValue=-5860, deathValue=-3536, winValue=3412, stepValue=495, dangerDistance=90, killDistance=66, mutated=0]
+0	120
+1	210
+2	120
+Testing fitness for: [pillValue=652, pillMultiplier=-4.649601220014312, powerPillValue=28, ghostValue=-6203, deathValue=4930, winValue=-1745, stepValue=-783, dangerDistance=60, killDistance=32, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=312, pillMultiplier=-7.9083861620877745, powerPillValue=-826, ghostValue=-7748, deathValue=8227, winValue=-3137, stepValue=-516, dangerDistance=60, killDistance=88, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=608, pillMultiplier=-3.6437360797397433, powerPillValue=495, ghostValue=1174, deathValue=-1014, winValue=-5258, stepValue=-340, dangerDistance=15, killDistance=95, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-822, pillMultiplier=-4.173931893227132, powerPillValue=285, ghostValue=-8905, deathValue=1966, winValue=7269, stepValue=-358, dangerDistance=94, killDistance=92, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=904, pillMultiplier=-3.467243016715102, powerPillValue=-586, ghostValue=7430, deathValue=1723, winValue=-3745, stepValue=-869, dangerDistance=14, killDistance=90, mutated=0]
+0	390
+1	380
+2	380
+Testing fitness for: [pillValue=487, pillMultiplier=8.296018010354981, powerPillValue=-976, ghostValue=9515, deathValue=-4987, winValue=3793, stepValue=840, dangerDistance=59, killDistance=70, mutated=0]
+0	130
+1	140
+2	1140
+Testing fitness for: [pillValue=-370, pillMultiplier=-6.532961266414499, powerPillValue=9, ghostValue=-1820, deathValue=-7321, winValue=8394, stepValue=38, dangerDistance=72, killDistance=40, mutated=0]
+0	20
+1	20
+2	80
+Testing fitness for: [pillValue=816, pillMultiplier=2.1089098112893403, powerPillValue=-482, ghostValue=6412, deathValue=238, winValue=202, stepValue=-584, dangerDistance=56, killDistance=50, mutated=0]
+0	380
+1	360
+2	360
+Testing fitness for: [pillValue=-543, pillMultiplier=-6.735588257900158, powerPillValue=57, ghostValue=9624, deathValue=524, winValue=-8057, stepValue=-390, dangerDistance=48, killDistance=75, mutated=0]
+0	210
+1	190
+2	220
+Testing fitness for: [pillValue=54, pillMultiplier=6.657499727452702, powerPillValue=-335, ghostValue=-1266, deathValue=-3835, winValue=9914, stepValue=-163, dangerDistance=32, killDistance=44, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-876, pillMultiplier=1.1422731513391398, powerPillValue=-183, ghostValue=3216, deathValue=-1051, winValue=3295, stepValue=446, dangerDistance=16, killDistance=35, mutated=0]
+0	4610
+1	1140
+2	1130
+Testing fitness for: [pillValue=-53, pillMultiplier=5.95137656853688, powerPillValue=-522, ghostValue=2823, deathValue=3443, winValue=1481, stepValue=721, dangerDistance=66, killDistance=50, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=378, pillMultiplier=-3.06744372285229, powerPillValue=-976, ghostValue=7456, deathValue=-3004, winValue=3046, stepValue=459, dangerDistance=99, killDistance=47, mutated=0]
+0	1800
+1	1850
+2	1010
+Testing fitness for: [pillValue=-22, pillMultiplier=-9.870658575188816, powerPillValue=-185, ghostValue=-1894, deathValue=4409, winValue=-494, stepValue=947, dangerDistance=14, killDistance=5, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=750, pillMultiplier=-6.813111500539415, powerPillValue=-557, ghostValue=-9923, deathValue=-4949, winValue=-2130, stepValue=-815, dangerDistance=60, killDistance=89, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=691, pillMultiplier=-2.032718267219005, powerPillValue=850, ghostValue=7964, deathValue=-3874, winValue=4868, stepValue=997, dangerDistance=51, killDistance=14, mutated=0]
+0	8630
+1	3630
+2	4500
+Testing fitness for: [pillValue=-666, pillMultiplier=9.573951047967203, powerPillValue=228, ghostValue=315, deathValue=-5483, winValue=4562, stepValue=-927, dangerDistance=9, killDistance=43, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=751, pillMultiplier=-7.665283319405454, powerPillValue=176, ghostValue=3247, deathValue=-9557, winValue=-4549, stepValue=780, dangerDistance=0, killDistance=75, mutated=0]
+0	210
+1	290
+2	120
+Testing fitness for: [pillValue=663, pillMultiplier=-0.8827177691912009, powerPillValue=-329, ghostValue=-2691, deathValue=-67, winValue=-1434, stepValue=-643, dangerDistance=47, killDistance=94, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-321, pillMultiplier=1.0152330570076593, powerPillValue=-275, ghostValue=-4497, deathValue=6153, winValue=-6548, stepValue=-456, dangerDistance=63, killDistance=47, mutated=0]
+0	140
+1	70
+2	70
+Testing fitness for: [pillValue=-322, pillMultiplier=3.5634638755133103, powerPillValue=-51, ghostValue=356, deathValue=3582, winValue=2053, stepValue=-187, dangerDistance=71, killDistance=58, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-85, pillMultiplier=-1.851928407728007, powerPillValue=-590, ghostValue=-3993, deathValue=-9876, winValue=9614, stepValue=39, dangerDistance=55, killDistance=11, mutated=0]
+0	1750
+1	2600
+2	1260
+Testing fitness for: [pillValue=-696, pillMultiplier=-4.187399719818121, powerPillValue=-805, ghostValue=8247, deathValue=-8793, winValue=307, stepValue=624, dangerDistance=92, killDistance=75, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=601, pillMultiplier=3.7419186183365944, powerPillValue=-181, ghostValue=6159, deathValue=-5814, winValue=3958, stepValue=-976, dangerDistance=69, killDistance=82, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=206, pillMultiplier=-6.175924250119198, powerPillValue=999, ghostValue=-8266, deathValue=1081, winValue=2918, stepValue=-367, dangerDistance=28, killDistance=86, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-637, pillMultiplier=-7.160013363011837, powerPillValue=-400, ghostValue=-1465, deathValue=7401, winValue=-9745, stepValue=863, dangerDistance=98, killDistance=56, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-851, pillMultiplier=0.5417706352413774, powerPillValue=973, ghostValue=8461, deathValue=-1629, winValue=5625, stepValue=621, dangerDistance=21, killDistance=81, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=597, pillMultiplier=5.657866354037559, powerPillValue=-989, ghostValue=8806, deathValue=-3211, winValue=-9157, stepValue=565, dangerDistance=70, killDistance=34, mutated=0]
+0	5260
+1	5340
+2	4440
+Testing fitness for: [pillValue=-695, pillMultiplier=-4.529274396978464, powerPillValue=-422, ghostValue=-2433, deathValue=-6229, winValue=7422, stepValue=-910, dangerDistance=73, killDistance=37, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-649, pillMultiplier=8.101743867348532, powerPillValue=-732, ghostValue=-3031, deathValue=-7753, winValue=6607, stepValue=925, dangerDistance=89, killDistance=48, mutated=0]
+0	920
+1	840
+2	260
+Testing fitness for: [pillValue=-146, pillMultiplier=-7.616928928928526, powerPillValue=-660, ghostValue=-8470, deathValue=-3615, winValue=-8295, stepValue=395, dangerDistance=65, killDistance=58, mutated=0]
+0	180
+1	180
+2	180
+Testing fitness for: [pillValue=956, pillMultiplier=4.583886941218163, powerPillValue=-442, ghostValue=-1562, deathValue=3742, winValue=-5934, stepValue=-295, dangerDistance=18, killDistance=5, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-431, pillMultiplier=5.292030848225748, powerPillValue=-542, ghostValue=-3755, deathValue=-6671, winValue=-4523, stepValue=-874, dangerDistance=60, killDistance=10, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-975, pillMultiplier=-6.540931938375545, powerPillValue=-34, ghostValue=753, deathValue=2661, winValue=-7591, stepValue=600, dangerDistance=82, killDistance=14, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=195, pillMultiplier=-8.214898234272356, powerPillValue=-442, ghostValue=8076, deathValue=8869, winValue=-9101, stepValue=-806, dangerDistance=66, killDistance=75, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-584, pillMultiplier=-0.009685681723253126, powerPillValue=403, ghostValue=254, deathValue=-7750, winValue=-3377, stepValue=-425, dangerDistance=50, killDistance=63, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-17, pillMultiplier=8.21315547644064, powerPillValue=987, ghostValue=-5943, deathValue=9438, winValue=-1368, stepValue=-575, dangerDistance=72, killDistance=49, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-188, pillMultiplier=-2.6443087674527384, powerPillValue=85, ghostValue=7613, deathValue=4615, winValue=-3895, stepValue=322, dangerDistance=14, killDistance=90, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=557, pillMultiplier=-0.4021248404281472, powerPillValue=11, ghostValue=5088, deathValue=3016, winValue=-4853, stepValue=-912, dangerDistance=4, killDistance=18, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=924, pillMultiplier=-2.4152254755210922, powerPillValue=209, ghostValue=-5476, deathValue=5264, winValue=9143, stepValue=-861, dangerDistance=63, killDistance=50, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-294, pillMultiplier=-1.6769321353771822, powerPillValue=-223, ghostValue=6202, deathValue=9125, winValue=-9994, stepValue=528, dangerDistance=74, killDistance=12, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=596, pillMultiplier=2.7128449504157217, powerPillValue=736, ghostValue=5118, deathValue=-9273, winValue=-4453, stepValue=543, dangerDistance=21, killDistance=18, mutated=0]
+0	1860
+1	5570
+2	4010
+Testing fitness for: [pillValue=988, pillMultiplier=7.605023246583158, powerPillValue=531, ghostValue=1311, deathValue=781, winValue=-4972, stepValue=908, dangerDistance=40, killDistance=54, mutated=0]
+0	20
+1	20
+2	80
+Testing fitness for: [pillValue=547, pillMultiplier=6.792414436819342, powerPillValue=-379, ghostValue=-7108, deathValue=6131, winValue=3863, stepValue=135, dangerDistance=54, killDistance=84, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-13, pillMultiplier=-1.8998647988002748, powerPillValue=60, ghostValue=-5583, deathValue=809, winValue=7460, stepValue=720, dangerDistance=24, killDistance=61, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=-70, pillMultiplier=9.246814110576452, powerPillValue=-333, ghostValue=-3017, deathValue=5382, winValue=3289, stepValue=-894, dangerDistance=93, killDistance=93, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-26, pillMultiplier=4.8866746582512715, powerPillValue=609, ghostValue=2133, deathValue=1848, winValue=4537, stepValue=529, dangerDistance=28, killDistance=66, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=380, pillMultiplier=5.493644453847043, powerPillValue=681, ghostValue=6676, deathValue=6024, winValue=6270, stepValue=703, dangerDistance=20, killDistance=70, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-388, pillMultiplier=-5.077505091581813, powerPillValue=711, ghostValue=-5845, deathValue=-9361, winValue=-3531, stepValue=507, dangerDistance=92, killDistance=92, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=638, pillMultiplier=4.323142599707136, powerPillValue=233, ghostValue=6497, deathValue=-4155, winValue=576, stepValue=-657, dangerDistance=11, killDistance=28, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-651, pillMultiplier=1.4156195717219529, powerPillValue=-780, ghostValue=-4328, deathValue=774, winValue=-7635, stepValue=-654, dangerDistance=39, killDistance=5, mutated=0]
+0	40
+1	40
+2	70
+Testing fitness for: [pillValue=-218, pillMultiplier=-9.96756233191187, powerPillValue=-687, ghostValue=246, deathValue=-5029, winValue=4153, stepValue=-122, dangerDistance=58, killDistance=9, mutated=0]
+0	80
+1	80
+2	80
+Testing fitness for: [pillValue=-703, pillMultiplier=7.757469354421364, powerPillValue=728, ghostValue=-2511, deathValue=2413, winValue=2272, stepValue=258, dangerDistance=83, killDistance=97, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-883, pillMultiplier=-4.519507056684933, powerPillValue=770, ghostValue=-4437, deathValue=-4747, winValue=-8836, stepValue=63, dangerDistance=37, killDistance=57, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=431, pillMultiplier=-8.557705785555672, powerPillValue=-741, ghostValue=-9006, deathValue=4416, winValue=5630, stepValue=181, dangerDistance=43, killDistance=1, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-718, pillMultiplier=-7.472608490302115, powerPillValue=147, ghostValue=3519, deathValue=-5747, winValue=-3384, stepValue=214, dangerDistance=27, killDistance=78, mutated=0]
+0	100
+1	100
+2	100
+Testing fitness for: [pillValue=196, pillMultiplier=-8.638145334536185, powerPillValue=374, ghostValue=5776, deathValue=-2442, winValue=-4307, stepValue=446, dangerDistance=40, killDistance=47, mutated=0]
+0	1020
+1	1450
+2	1030
+Testing fitness for: [pillValue=-243, pillMultiplier=5.612776966278625, powerPillValue=-358, ghostValue=-2565, deathValue=1785, winValue=-2748, stepValue=-167, dangerDistance=14, killDistance=41, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=612, pillMultiplier=9.613616281099173, powerPillValue=-961, ghostValue=3758, deathValue=9594, winValue=-4461, stepValue=579, dangerDistance=65, killDistance=95, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-615, pillMultiplier=3.2856202900150215, powerPillValue=315, ghostValue=-3687, deathValue=8011, winValue=2572, stepValue=-440, dangerDistance=82, killDistance=68, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=490, pillMultiplier=5.2103226270691785, powerPillValue=-571, ghostValue=2935, deathValue=-6090, winValue=8422, stepValue=-993, dangerDistance=21, killDistance=45, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=436, pillMultiplier=1.6998850885876404, powerPillValue=-797, ghostValue=5150, deathValue=7368, winValue=-8429, stepValue=39, dangerDistance=78, killDistance=68, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-439, pillMultiplier=-8.745620984964313, powerPillValue=523, ghostValue=-2163, deathValue=794, winValue=-2104, stepValue=-792, dangerDistance=67, killDistance=54, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=57, pillMultiplier=-4.313343334195087, powerPillValue=-635, ghostValue=5649, deathValue=8725, winValue=-9026, stepValue=-863, dangerDistance=98, killDistance=16, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=511, pillMultiplier=-5.5679480975116435, powerPillValue=701, ghostValue=8895, deathValue=-359, winValue=-4912, stepValue=-411, dangerDistance=99, killDistance=48, mutated=0]
+0	60
+1	60
+2	60
+Testing fitness for: [pillValue=258, pillMultiplier=4.680205541613141, powerPillValue=800, ghostValue=4975, deathValue=-2189, winValue=-7043, stepValue=-334, dangerDistance=72, killDistance=29, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-391, pillMultiplier=-7.790234049574563, powerPillValue=194, ghostValue=7685, deathValue=-9912, winValue=-8246, stepValue=-268, dangerDistance=31, killDistance=22, mutated=0]
+0	50
+1	50
+2	50
+Testing fitness for: [pillValue=798, pillMultiplier=-1.7757923172472267, powerPillValue=-656, ghostValue=5405, deathValue=-7737, winValue=-1041, stepValue=268, dangerDistance=41, killDistance=94, mutated=0]
+0	100
+1	120
+2	100
+Testing fitness for: [pillValue=298, pillMultiplier=5.037154487173936, powerPillValue=40, ghostValue=-6959, deathValue=-9151, winValue=-5037, stepValue=765, dangerDistance=13, killDistance=63, mutated=0]
+0	120
+1	120
+2	150
+Testing fitness for: [pillValue=287, pillMultiplier=4.802365558340236, powerPillValue=-37, ghostValue=-3978, deathValue=-9854, winValue=-8602, stepValue=76, dangerDistance=9, killDistance=69, mutated=0]
+0	390
+1	390
+2	520
+Testing fitness for: [pillValue=596, pillMultiplier=-0.9158264398439684, powerPillValue=301, ghostValue=7716, deathValue=8750, winValue=-1883, stepValue=-809, dangerDistance=44, killDistance=59, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-134, pillMultiplier=-1.5609023477349826, powerPillValue=-788, ghostValue=-470, deathValue=-5642, winValue=-5562, stepValue=-276, dangerDistance=63, killDistance=85, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-135, pillMultiplier=2.879195898725328, powerPillValue=-169, ghostValue=-5042, deathValue=-4773, winValue=6586, stepValue=721, dangerDistance=40, killDistance=28, mutated=0]
+0	760
+1	910
+2	1130
+Testing fitness for: [pillValue=849, pillMultiplier=-5.5018348574353855, powerPillValue=-626, ghostValue=2888, deathValue=-8401, winValue=-6439, stepValue=158, dangerDistance=40, killDistance=75, mutated=0]
+0	370
+1	420
+2	370
+Testing fitness for: [pillValue=508, pillMultiplier=4.291546749120803, powerPillValue=-229, ghostValue=8356, deathValue=-2653, winValue=-9196, stepValue=-765, dangerDistance=76, killDistance=7, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-734, pillMultiplier=-2.4319509767893805, powerPillValue=-839, ghostValue=5681, deathValue=2039, winValue=-6470, stepValue=-977, dangerDistance=35, killDistance=41, mutated=0]
+0	70
+1	180
+2	180
+Testing fitness for: [pillValue=-591, pillMultiplier=-1.3360927786827617, powerPillValue=-570, ghostValue=5293, deathValue=3843, winValue=-2471, stepValue=765, dangerDistance=29, killDistance=83, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=799, pillMultiplier=9.685126371092657, powerPillValue=-759, ghostValue=4656, deathValue=-3766, winValue=-7360, stepValue=-672, dangerDistance=79, killDistance=85, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=166, pillMultiplier=0.8541765796502805, powerPillValue=-922, ghostValue=5457, deathValue=-7368, winValue=6930, stepValue=-568, dangerDistance=98, killDistance=43, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=642, pillMultiplier=-6.173714829640399, powerPillValue=358, ghostValue=-8249, deathValue=8328, winValue=-4049, stepValue=315, dangerDistance=9, killDistance=24, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=965, pillMultiplier=4.094482383070179, powerPillValue=-663, ghostValue=-329, deathValue=3770, winValue=6559, stepValue=977, dangerDistance=64, killDistance=92, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=479, pillMultiplier=-8.415426095289707, powerPillValue=-67, ghostValue=-5474, deathValue=-4203, winValue=-5904, stepValue=-344, dangerDistance=93, killDistance=86, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=537, pillMultiplier=-4.191707965698308, powerPillValue=821, ghostValue=9052, deathValue=-2091, winValue=5938, stepValue=351, dangerDistance=16, killDistance=73, mutated=0]
+0	3570
+1	2900
+2	3570
+Testing fitness for: [pillValue=-884, pillMultiplier=-7.752062124341683, powerPillValue=-885, ghostValue=714, deathValue=8938, winValue=240, stepValue=765, dangerDistance=20, killDistance=48, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=196, pillMultiplier=-1.3573990686229092, powerPillValue=-198, ghostValue=2826, deathValue=-3511, winValue=2081, stepValue=379, dangerDistance=17, killDistance=21, mutated=0]
+0	1950
+1	4110
+2	1070
+Testing fitness for: [pillValue=-683, pillMultiplier=8.18435257738803, powerPillValue=720, ghostValue=1587, deathValue=1102, winValue=4374, stepValue=-992, dangerDistance=27, killDistance=24, mutated=0]
+0	60
+1	60
+2	60
+Testing fitness for: [pillValue=458, pillMultiplier=6.801915974284309, powerPillValue=-189, ghostValue=-7046, deathValue=4591, winValue=3137, stepValue=-819, dangerDistance=21, killDistance=78, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=762, pillMultiplier=2.3239435555986745, powerPillValue=-345, ghostValue=-1619, deathValue=4043, winValue=-9506, stepValue=237, dangerDistance=58, killDistance=74, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=788, pillMultiplier=-1.2531050532379613, powerPillValue=-888, ghostValue=2597, deathValue=-7073, winValue=-9913, stepValue=-87, dangerDistance=84, killDistance=58, mutated=0]
+0	750
+1	800
+2	750
+Testing fitness for: [pillValue=190, pillMultiplier=0.5781952385504479, powerPillValue=491, ghostValue=-2513, deathValue=5473, winValue=-6980, stepValue=179, dangerDistance=81, killDistance=81, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-689, pillMultiplier=8.710922177281638, powerPillValue=77, ghostValue=8389, deathValue=-1305, winValue=2496, stepValue=736, dangerDistance=34, killDistance=50, mutated=0]
+0	1970
+1	3780
+2	2020
+Testing fitness for: [pillValue=221, pillMultiplier=8.269982271890875, powerPillValue=394, ghostValue=750, deathValue=7739, winValue=-7809, stepValue=-902, dangerDistance=79, killDistance=37, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-885, pillMultiplier=2.193286016357412, powerPillValue=278, ghostValue=1970, deathValue=5188, winValue=2705, stepValue=60, dangerDistance=24, killDistance=4, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-360, pillMultiplier=5.396226509526674, powerPillValue=356, ghostValue=-2204, deathValue=-6063, winValue=1944, stepValue=-204, dangerDistance=41, killDistance=34, mutated=0]
+0	20
+1	50
+2	50
+Testing fitness for: [pillValue=546, pillMultiplier=-5.528911547295607, powerPillValue=991, ghostValue=-2491, deathValue=6662, winValue=7369, stepValue=-153, dangerDistance=67, killDistance=22, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=986, pillMultiplier=7.744459099821977, powerPillValue=949, ghostValue=5992, deathValue=2578, winValue=-1027, stepValue=192, dangerDistance=46, killDistance=6, mutated=0]
+0	350
+1	390
+2	390
+Testing fitness for: [pillValue=697, pillMultiplier=9.719731735820591, powerPillValue=-158, ghostValue=8382, deathValue=1615, winValue=-170, stepValue=-837, dangerDistance=10, killDistance=27, mutated=0]
+0	380
+1	380
+2	400
+Testing fitness for: [pillValue=-330, pillMultiplier=-3.3252147919919484, powerPillValue=802, ghostValue=4284, deathValue=6285, winValue=-3884, stepValue=-31, dangerDistance=50, killDistance=92, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=159, pillMultiplier=8.928763754942732, powerPillValue=893, ghostValue=-5547, deathValue=1721, winValue=4476, stepValue=924, dangerDistance=37, killDistance=94, mutated=0]
+0	0
+1	0
+2	0
+Testing fitness for: [pillValue=906, pillMultiplier=-5.356207186401065, powerPillValue=471, ghostValue=4344, deathValue=3754, winValue=8820, stepValue=-909, dangerDistance=4, killDistance=53, mutated=0]
+0	160
+1	160
+2	160
+Testing fitness for: [pillValue=-325, pillMultiplier=4.086660861436268, powerPillValue=969, ghostValue=7877, deathValue=-6112, winValue=62, stepValue=-235, dangerDistance=69, killDistance=2, mutated=0]
+0	10
+1	10
+2	80
+Testing fitness for: [pillValue=-898, pillMultiplier=0.5951724235554643, powerPillValue=-506, ghostValue=6513, deathValue=-5111, winValue=-1436, stepValue=-322, dangerDistance=18, killDistance=48, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=515, pillMultiplier=-6.054114509924171, powerPillValue=744, ghostValue=-6431, deathValue=-5653, winValue=-3272, stepValue=-375, dangerDistance=16, killDistance=27, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=139, pillMultiplier=-9.395651538153105, powerPillValue=127, ghostValue=-3541, deathValue=3502, winValue=4423, stepValue=-637, dangerDistance=2, killDistance=29, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=75, pillMultiplier=-0.33313504255302284, powerPillValue=328, ghostValue=2558, deathValue=-6497, winValue=1554, stepValue=332, dangerDistance=50, killDistance=49, mutated=0]
+0	1960
+1	1490
+2	720
+Testing fitness for: [pillValue=-691, pillMultiplier=3.8314688875384064, powerPillValue=-963, ghostValue=5533, deathValue=7079, winValue=-4376, stepValue=694, dangerDistance=13, killDistance=62, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=563, pillMultiplier=9.078167719271683, powerPillValue=-401, ghostValue=-8838, deathValue=9205, winValue=5559, stepValue=584, dangerDistance=63, killDistance=93, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=285, pillMultiplier=-3.1976413962474437, powerPillValue=908, ghostValue=8899, deathValue=-3191, winValue=3415, stepValue=568, dangerDistance=8, killDistance=15, mutated=0]
+0	3380
+1	6420
+2	5710
+Testing fitness for: [pillValue=884, pillMultiplier=8.377312710144757, powerPillValue=-447, ghostValue=4382, deathValue=883, winValue=-7678, stepValue=316, dangerDistance=22, killDistance=57, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-21, pillMultiplier=-6.710985674399554, powerPillValue=-206, ghostValue=-9158, deathValue=8269, winValue=-7901, stepValue=73, dangerDistance=64, killDistance=75, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=69, pillMultiplier=7.624523585070758, powerPillValue=-575, ghostValue=-3809, deathValue=2605, winValue=8560, stepValue=709, dangerDistance=97, killDistance=45, mutated=0]
+0	130
+1	130
+2	130
+Testing fitness for: [pillValue=-515, pillMultiplier=-1.8892594826556852, powerPillValue=722, ghostValue=-3376, deathValue=2400, winValue=-6390, stepValue=-603, dangerDistance=41, killDistance=94, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=492, pillMultiplier=-2.750211931716862, powerPillValue=-220, ghostValue=-2517, deathValue=-5289, winValue=3125, stepValue=281, dangerDistance=72, killDistance=71, mutated=0]
+0	220
+1	220
+2	300
+Testing fitness for: [pillValue=-109, pillMultiplier=-7.326134807688476, powerPillValue=-893, ghostValue=-5142, deathValue=-4906, winValue=7948, stepValue=-50, dangerDistance=59, killDistance=77, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-904, pillMultiplier=-6.65426275260268, powerPillValue=967, ghostValue=16, deathValue=1149, winValue=-1652, stepValue=680, dangerDistance=89, killDistance=7, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-466, pillMultiplier=-2.5970481991631145, powerPillValue=146, ghostValue=5669, deathValue=-9951, winValue=1626, stepValue=981, dangerDistance=75, killDistance=30, mutated=0]
+0	3420
+1	2110
+2	2280
+Testing fitness for: [pillValue=79, pillMultiplier=-0.9092382278248419, powerPillValue=-776, ghostValue=-3730, deathValue=6619, winValue=-6192, stepValue=-716, dangerDistance=31, killDistance=60, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-794, pillMultiplier=6.05326590895125, powerPillValue=-701, ghostValue=6787, deathValue=-4941, winValue=6305, stepValue=-813, dangerDistance=31, killDistance=35, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=522, pillMultiplier=5.731770748316665, powerPillValue=350, ghostValue=-9528, deathValue=8280, winValue=-1773, stepValue=-679, dangerDistance=50, killDistance=70, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=452, pillMultiplier=4.018494058976017, powerPillValue=48, ghostValue=-29, deathValue=8934, winValue=6688, stepValue=-931, dangerDistance=53, killDistance=20, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=723, pillMultiplier=6.973741944712909, powerPillValue=315, ghostValue=-944, deathValue=-4143, winValue=738, stepValue=-65, dangerDistance=96, killDistance=99, mutated=0]
+0	110
+1	110
+2	110
+Testing fitness for: [pillValue=-504, pillMultiplier=-0.6933324517005008, powerPillValue=-860, ghostValue=-1674, deathValue=-3559, winValue=-6799, stepValue=783, dangerDistance=3, killDistance=65, mutated=0]
+0	260
+1	250
+2	250
+Testing fitness for: [pillValue=-745, pillMultiplier=-4.407639645228132, powerPillValue=-469, ghostValue=4738, deathValue=9419, winValue=7056, stepValue=-515, dangerDistance=33, killDistance=30, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-105, pillMultiplier=-0.7272849673988109, powerPillValue=-294, ghostValue=-5324, deathValue=6250, winValue=-1340, stepValue=-88, dangerDistance=17, killDistance=49, mutated=0]
+0	70
+1	130
+2	70
+Testing fitness for: [pillValue=89, pillMultiplier=-2.694431954161378, powerPillValue=453, ghostValue=-4264, deathValue=8795, winValue=-354, stepValue=720, dangerDistance=50, killDistance=34, mutated=0]
+0	130
+1	130
+2	130
+Testing fitness for: [pillValue=661, pillMultiplier=4.263210858088453, powerPillValue=226, ghostValue=6083, deathValue=3930, winValue=161, stepValue=-311, dangerDistance=77, killDistance=59, mutated=0]
+0	160
+1	160
+2	160
+Testing fitness for: [pillValue=-601, pillMultiplier=4.042070261924689, powerPillValue=-493, ghostValue=-3635, deathValue=9546, winValue=81, stepValue=79, dangerDistance=1, killDistance=30, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-615, pillMultiplier=2.8816185229868534, powerPillValue=901, ghostValue=7838, deathValue=7274, winValue=3664, stepValue=773, dangerDistance=89, killDistance=19, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-332, pillMultiplier=-3.0030389639571453, powerPillValue=428, ghostValue=-9348, deathValue=9201, winValue=-7289, stepValue=727, dangerDistance=2, killDistance=18, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=510, pillMultiplier=7.847763633863213, powerPillValue=-187, ghostValue=-1004, deathValue=-7293, winValue=3957, stepValue=312, dangerDistance=65, killDistance=26, mutated=0]
+0	1870
+1	1860
+2	1300
+Testing fitness for: [pillValue=-316, pillMultiplier=-5.838647175043246, powerPillValue=887, ghostValue=6527, deathValue=-4690, winValue=4973, stepValue=386, dangerDistance=0, killDistance=78, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-853, pillMultiplier=9.078058471525868, powerPillValue=870, ghostValue=8182, deathValue=-560, winValue=7917, stepValue=-867, dangerDistance=73, killDistance=97, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-148, pillMultiplier=8.750859114917237, powerPillValue=-431, ghostValue=978, deathValue=1936, winValue=-1100, stepValue=-854, dangerDistance=53, killDistance=48, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=241, pillMultiplier=1.385500730640901, powerPillValue=-642, ghostValue=8159, deathValue=286, winValue=2397, stepValue=-877, dangerDistance=78, killDistance=36, mutated=0]
+0	60
+1	120
+2	120
+Testing fitness for: [pillValue=889, pillMultiplier=5.467195852929127, powerPillValue=738, ghostValue=4126, deathValue=-8481, winValue=5264, stepValue=-297, dangerDistance=48, killDistance=48, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=370, pillMultiplier=-6.312031715030488, powerPillValue=-131, ghostValue=-6035, deathValue=-8197, winValue=7497, stepValue=-399, dangerDistance=86, killDistance=34, mutated=0]
+0	50
+1	110
+2	50
+Testing fitness for: [pillValue=-503, pillMultiplier=-0.4084813939647951, powerPillValue=-610, ghostValue=-7760, deathValue=8985, winValue=4205, stepValue=29, dangerDistance=49, killDistance=41, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-364, pillMultiplier=4.294399685763555, powerPillValue=210, ghostValue=2112, deathValue=-7948, winValue=-8418, stepValue=708, dangerDistance=19, killDistance=11, mutated=0]
+0	11920
+1	9780
+2	12520
+Testing fitness for: [pillValue=-208, pillMultiplier=-2.5811685294152875, powerPillValue=-698, ghostValue=-3484, deathValue=-2033, winValue=-911, stepValue=296, dangerDistance=45, killDistance=14, mutated=0]
+0	1670
+1	1320
+2	800
+Testing fitness for: [pillValue=17, pillMultiplier=-3.6894010966286483, powerPillValue=-388, ghostValue=-2134, deathValue=-8176, winValue=-1984, stepValue=-747, dangerDistance=39, killDistance=95, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-628, pillMultiplier=2.0706144631001333, powerPillValue=793, ghostValue=-5908, deathValue=-1653, winValue=6963, stepValue=-209, dangerDistance=57, killDistance=16, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=896, pillMultiplier=9.82963302659044, powerPillValue=1, ghostValue=-4942, deathValue=-5605, winValue=2554, stepValue=1, dangerDistance=42, killDistance=28, mutated=0]
+0	1490
+1	3230
+2	1700
+Testing fitness for: [pillValue=-845, pillMultiplier=3.2104237148931816, powerPillValue=-489, ghostValue=477, deathValue=9643, winValue=6425, stepValue=-210, dangerDistance=15, killDistance=94, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-627, pillMultiplier=4.799635227329961, powerPillValue=174, ghostValue=-9584, deathValue=-226, winValue=9786, stepValue=-770, dangerDistance=94, killDistance=0, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=75, pillMultiplier=-7.646328912664804, powerPillValue=-762, ghostValue=6233, deathValue=2312, winValue=-1591, stepValue=182, dangerDistance=68, killDistance=55, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-615, pillMultiplier=-1.797950405063471, powerPillValue=884, ghostValue=-4754, deathValue=-8583, winValue=-7275, stepValue=-238, dangerDistance=25, killDistance=82, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=499, pillMultiplier=-7.572367290773283, powerPillValue=-701, ghostValue=8366, deathValue=-9271, winValue=7640, stepValue=-697, dangerDistance=79, killDistance=14, mutated=0]
+0	80
+1	50
+2	80
+Testing fitness for: [pillValue=335, pillMultiplier=4.526023461822797, powerPillValue=142, ghostValue=-4052, deathValue=-2959, winValue=6788, stepValue=-742, dangerDistance=39, killDistance=94, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-926, pillMultiplier=-6.756101078198709, powerPillValue=-821, ghostValue=2965, deathValue=-9699, winValue=9794, stepValue=586, dangerDistance=82, killDistance=71, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-448, pillMultiplier=-6.141103785809059, powerPillValue=-356, ghostValue=1091, deathValue=5773, winValue=-4346, stepValue=-427, dangerDistance=14, killDistance=59, mutated=0]
+0	70
+1	140
+2	70
+Testing fitness for: [pillValue=-769, pillMultiplier=3.2459357670312627, powerPillValue=401, ghostValue=5884, deathValue=-3557, winValue=-3624, stepValue=18, dangerDistance=4, killDistance=94, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-190, pillMultiplier=5.57742734465436, powerPillValue=218, ghostValue=-3927, deathValue=-6644, winValue=7183, stepValue=102, dangerDistance=32, killDistance=95, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-827, pillMultiplier=-5.7808545956501405, powerPillValue=-147, ghostValue=980, deathValue=-4072, winValue=1380, stepValue=980, dangerDistance=26, killDistance=84, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-56, pillMultiplier=-5.164404207139062, powerPillValue=25, ghostValue=9238, deathValue=-7253, winValue=9184, stepValue=326, dangerDistance=37, killDistance=34, mutated=0]
+0	3660
+1	3290
+2	3290
+Testing fitness for: [pillValue=-334, pillMultiplier=9.179011973975335, powerPillValue=-6, ghostValue=-8482, deathValue=-7105, winValue=-2339, stepValue=696, dangerDistance=13, killDistance=82, mutated=0]
+0	100
+1	190
+2	100
+Testing fitness for: [pillValue=-920, pillMultiplier=-9.413655376116951, powerPillValue=-43, ghostValue=9359, deathValue=-609, winValue=-3409, stepValue=55, dangerDistance=68, killDistance=93, mutated=0]
+0	60
+1	60
+2	60
+Testing fitness for: [pillValue=904, pillMultiplier=5.3806061565798515, powerPillValue=-135, ghostValue=-3180, deathValue=8558, winValue=-3791, stepValue=-884, dangerDistance=76, killDistance=1, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-992, pillMultiplier=4.225034415174235, powerPillValue=-38, ghostValue=8716, deathValue=-882, winValue=-3717, stepValue=-679, dangerDistance=94, killDistance=92, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=214, pillMultiplier=8.739497286223305, powerPillValue=-882, ghostValue=-4937, deathValue=-1569, winValue=-8663, stepValue=-163, dangerDistance=1, killDistance=59, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-682, pillMultiplier=-6.6929582401270515, powerPillValue=-248, ghostValue=2265, deathValue=3333, winValue=-6013, stepValue=-302, dangerDistance=66, killDistance=81, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=879, pillMultiplier=-4.060348820711801, powerPillValue=-596, ghostValue=-3967, deathValue=-6785, winValue=3536, stepValue=-604, dangerDistance=42, killDistance=49, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=-225, pillMultiplier=-0.5573029542578656, powerPillValue=-71, ghostValue=-7827, deathValue=6045, winValue=-4414, stepValue=560, dangerDistance=43, killDistance=5, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=171, pillMultiplier=6.885692648222516, powerPillValue=-21, ghostValue=-4213, deathValue=7003, winValue=9462, stepValue=187, dangerDistance=26, killDistance=32, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=595, pillMultiplier=3.9930673272692836, powerPillValue=-266, ghostValue=-8810, deathValue=-500, winValue=2569, stepValue=663, dangerDistance=70, killDistance=0, mutated=0]
+0	1320
+1	1260
+2	1110
+Testing fitness for: [pillValue=608, pillMultiplier=-8.131250208147584, powerPillValue=-191, ghostValue=-1704, deathValue=7266, winValue=-4408, stepValue=185, dangerDistance=31, killDistance=70, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-758, pillMultiplier=0.7383142222799037, powerPillValue=650, ghostValue=-7843, deathValue=-6584, winValue=9567, stepValue=-737, dangerDistance=6, killDistance=63, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=694, pillMultiplier=4.339989132315996, powerPillValue=-323, ghostValue=-7751, deathValue=-332, winValue=4261, stepValue=114, dangerDistance=29, killDistance=18, mutated=0]
+0	1960
+1	2050
+2	2030
+Testing fitness for: [pillValue=-739, pillMultiplier=-1.3611608884635054, powerPillValue=835, ghostValue=-6312, deathValue=-3987, winValue=-6353, stepValue=-377, dangerDistance=34, killDistance=55, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-240, pillMultiplier=2.325479367073024, powerPillValue=924, ghostValue=-9812, deathValue=5807, winValue=7307, stepValue=-737, dangerDistance=36, killDistance=64, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-445, pillMultiplier=7.324651197202677, powerPillValue=562, ghostValue=-9397, deathValue=2445, winValue=-5437, stepValue=-641, dangerDistance=62, killDistance=84, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-525, pillMultiplier=8.257581978390984, powerPillValue=-357, ghostValue=-9408, deathValue=-8578, winValue=-5246, stepValue=-354, dangerDistance=44, killDistance=56, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=856, pillMultiplier=2.6804198635893, powerPillValue=107, ghostValue=-188, deathValue=-4511, winValue=4608, stepValue=776, dangerDistance=35, killDistance=81, mutated=0]
+0	110
+1	110
+2	200
+Testing fitness for: [pillValue=-733, pillMultiplier=-6.662677119517291, powerPillValue=798, ghostValue=-963, deathValue=1540, winValue=-4300, stepValue=-188, dangerDistance=91, killDistance=98, mutated=0]
+0	140
+1	70
+2	70
+Testing fitness for: [pillValue=339, pillMultiplier=-6.653800270232959, powerPillValue=-411, ghostValue=-3425, deathValue=-9464, winValue=-2563, stepValue=818, dangerDistance=85, killDistance=67, mutated=0]
+0	300
+1	120
+2	120
+Testing fitness for: [pillValue=83, pillMultiplier=5.043178007736879, powerPillValue=328, ghostValue=1160, deathValue=-724, winValue=6437, stepValue=966, dangerDistance=36, killDistance=22, mutated=0]
+0	790
+1	1000
+2	660
+Testing fitness for: [pillValue=590, pillMultiplier=6.582386846274208, powerPillValue=320, ghostValue=2186, deathValue=7532, winValue=4670, stepValue=-439, dangerDistance=49, killDistance=17, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=100, pillMultiplier=-5.973994147835766, powerPillValue=63, ghostValue=2360, deathValue=-8336, winValue=6269, stepValue=-182, dangerDistance=25, killDistance=43, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=687, pillMultiplier=-3.869292763203922, powerPillValue=-870, ghostValue=-4741, deathValue=-124, winValue=-4587, stepValue=-141, dangerDistance=95, killDistance=59, mutated=0]
+0	700
+1	750
+2	750
+Testing fitness for: [pillValue=805, pillMultiplier=1.7725255639773767, powerPillValue=-744, ghostValue=533, deathValue=9072, winValue=-9170, stepValue=193, dangerDistance=29, killDistance=81, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-426, pillMultiplier=-7.481423587082363, powerPillValue=481, ghostValue=7184, deathValue=2756, winValue=-1043, stepValue=-179, dangerDistance=18, killDistance=4, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-464, pillMultiplier=-0.46684483843863234, powerPillValue=557, ghostValue=-8314, deathValue=1950, winValue=-4179, stepValue=11, dangerDistance=46, killDistance=52, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=424, pillMultiplier=4.657645669241436, powerPillValue=99, ghostValue=-6524, deathValue=9279, winValue=-229, stepValue=313, dangerDistance=3, killDistance=56, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-602, pillMultiplier=-0.01164743331364626, powerPillValue=78, ghostValue=7181, deathValue=-6662, winValue=5001, stepValue=469, dangerDistance=67, killDistance=69, mutated=0]
+0	1140
+1	1180
+2	1150
+Testing fitness for: [pillValue=-124, pillMultiplier=1.0422093206997989, powerPillValue=-724, ghostValue=6153, deathValue=-9257, winValue=-9645, stepValue=404, dangerDistance=3, killDistance=99, mutated=0]
+0	100
+1	100
+2	100
+Testing fitness for: [pillValue=-973, pillMultiplier=0.17827970671759452, powerPillValue=246, ghostValue=8905, deathValue=-8413, winValue=-577, stepValue=581, dangerDistance=14, killDistance=65, mutated=0]
+0	1990
+1	3510
+2	1980
+Testing fitness for: [pillValue=348, pillMultiplier=-1.2093192070907293, powerPillValue=-356, ghostValue=9020, deathValue=1727, winValue=5211, stepValue=538, dangerDistance=29, killDistance=80, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=489, pillMultiplier=4.494846480885524, powerPillValue=-42, ghostValue=-1232, deathValue=482, winValue=2825, stepValue=-984, dangerDistance=68, killDistance=79, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=361, pillMultiplier=4.438046593590704, powerPillValue=896, ghostValue=-3167, deathValue=4710, winValue=-1421, stepValue=-119, dangerDistance=72, killDistance=11, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=28, pillMultiplier=0.7690227649184322, powerPillValue=959, ghostValue=-1334, deathValue=1486, winValue=8460, stepValue=554, dangerDistance=40, killDistance=17, mutated=0]
+0	110
+1	110
+2	110
+Testing fitness for: [pillValue=-783, pillMultiplier=-4.951843169408208, powerPillValue=676, ghostValue=5090, deathValue=-4332, winValue=-6965, stepValue=559, dangerDistance=60, killDistance=2, mutated=0]
+0	3840
+1	1040
+2	7130
+Testing fitness for: [pillValue=-341, pillMultiplier=-0.05737023752166159, powerPillValue=-52, ghostValue=-5501, deathValue=-7627, winValue=-9568, stepValue=-494, dangerDistance=42, killDistance=11, mutated=0]
+0	10
+1	10
+2	20
+Testing fitness for: [pillValue=-780, pillMultiplier=-1.670387330537583, powerPillValue=864, ghostValue=-4051, deathValue=2702, winValue=4715, stepValue=-465, dangerDistance=23, killDistance=6, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=771, pillMultiplier=5.667093657912536, powerPillValue=-373, ghostValue=-9830, deathValue=9842, winValue=-8552, stepValue=-29, dangerDistance=87, killDistance=30, mutated=0]
+0	360
+1	370
+2	360
+Testing fitness for: [pillValue=-513, pillMultiplier=-5.17461679527635, powerPillValue=-551, ghostValue=-3271, deathValue=-7067, winValue=3360, stepValue=715, dangerDistance=67, killDistance=58, mutated=0]
+0	820
+1	250
+2	840
+Testing fitness for: [pillValue=25, pillMultiplier=-0.13374368015357874, powerPillValue=634, ghostValue=4960, deathValue=-4040, winValue=2660, stepValue=976, dangerDistance=35, killDistance=21, mutated=0]
+0	7750
+1	10600
+2	3610
+Testing fitness for: [pillValue=-158, pillMultiplier=2.968827629463828, powerPillValue=230, ghostValue=1262, deathValue=-4763, winValue=-6107, stepValue=268, dangerDistance=96, killDistance=55, mutated=0]
+0	430
+1	1190
+2	350
+Testing fitness for: [pillValue=385, pillMultiplier=3.1846195527276766, powerPillValue=-130, ghostValue=-7363, deathValue=-9253, winValue=3632, stepValue=478, dangerDistance=92, killDistance=24, mutated=0]
+0	940
+1	1970
+2	1160
+Testing fitness for: [pillValue=652, pillMultiplier=9.000587028717955, powerPillValue=-614, ghostValue=1171, deathValue=4257, winValue=6208, stepValue=923, dangerDistance=8, killDistance=15, mutated=0]
+0	60
+1	60
+2	140
+Testing fitness for: [pillValue=-265, pillMultiplier=-7.63436063898186, powerPillValue=-210, ghostValue=-5276, deathValue=-4053, winValue=-6352, stepValue=320, dangerDistance=33, killDistance=50, mutated=0]
+0	650
+1	660
+2	650
+Testing fitness for: [pillValue=-746, pillMultiplier=3.911164744130284, powerPillValue=-993, ghostValue=9111, deathValue=-942, winValue=-6732, stepValue=-235, dangerDistance=24, killDistance=35, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-552, pillMultiplier=3.101877323235838, powerPillValue=262, ghostValue=-1473, deathValue=-1970, winValue=1965, stepValue=-813, dangerDistance=49, killDistance=5, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-276, pillMultiplier=2.892829271327953, powerPillValue=-971, ghostValue=-4043, deathValue=-4564, winValue=2052, stepValue=878, dangerDistance=76, killDistance=6, mutated=0]
+0	2940
+1	8690
+2	1350
+Testing fitness for: [pillValue=-579, pillMultiplier=9.163002438862861, powerPillValue=335, ghostValue=6483, deathValue=-6920, winValue=-9795, stepValue=-692, dangerDistance=78, killDistance=8, mutated=0]
+0	10
+1	10
+2	10
+Testing fitness for: [pillValue=-579, pillMultiplier=6.131585935286466, powerPillValue=-94, ghostValue=-6198, deathValue=364, winValue=-2926, stepValue=349, dangerDistance=24, killDistance=20, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=0, pillMultiplier=3.8848483958872055, powerPillValue=-302, ghostValue=914, deathValue=3762, winValue=-9457, stepValue=317, dangerDistance=33, killDistance=32, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=108, pillMultiplier=-6.563271755269946, powerPillValue=-381, ghostValue=4126, deathValue=-4781, winValue=-2054, stepValue=-466, dangerDistance=36, killDistance=8, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=-371, pillMultiplier=-3.2021172449268276, powerPillValue=-713, ghostValue=2124, deathValue=4724, winValue=7265, stepValue=268, dangerDistance=59, killDistance=42, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=-136, pillMultiplier=5.931670243770888, powerPillValue=-686, ghostValue=8908, deathValue=6389, winValue=9816, stepValue=541, dangerDistance=15, killDistance=7, mutated=0]
+0	70
+1	70
+2	70
+Testing fitness for: [pillValue=112, pillMultiplier=-3.228901700570317, powerPillValue=760, ghostValue=-2578, deathValue=-6695, winValue=1594, stepValue=759, dangerDistance=29, killDistance=7, mutated=0]
+0	1810
+1	4190
+2	3500
+Testing fitness for: [pillValue=-885, pillMultiplier=3.093263115155631, powerPillValue=239, ghostValue=-5414, deathValue=1279, winValue=-5791, stepValue=-598, dangerDistance=83, killDistance=4, mutated=0]
+0	140
+1	140
+2	140
+Testing fitness for: [pillValue=895, pillMultiplier=-3.5078896583892867, powerPillValue=500, ghostValue=8054, deathValue=-3632, winValue=823, stepValue=55, dangerDistance=20, killDistance=74, mutated=0]
+0	440
+1	2060
+2	1960
+Testing fitness for: [pillValue=-516, pillMultiplier=-4.3461986983451695, powerPillValue=35, ghostValue=1862, deathValue=-7316, winValue=-7166, stepValue=747, dangerDistance=58, killDistance=33, mutated=0]
+0	1090
+1	5240
+2	2180
+Testing fitness for: [pillValue=-893, pillMultiplier=8.03354719839514, powerPillValue=-450, ghostValue=-9340, deathValue=-9275, winValue=-1201, stepValue=76, dangerDistance=46, killDistance=95, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=122, pillMultiplier=9.88152930297949, powerPillValue=329, ghostValue=8351, deathValue=3395, winValue=2210, stepValue=-321, dangerDistance=21, killDistance=21, mutated=0]
+0	150
+1	150
+2	150
+Testing fitness for: [pillValue=-212, pillMultiplier=-2.0749799431568228, powerPillValue=226, ghostValue=2193, deathValue=-5919, winValue=7137, stepValue=-316, dangerDistance=14, killDistance=25, mutated=0]
+0	50
+1	50
+2	50
+Testing fitness for: [pillValue=-533, pillMultiplier=8.186990494350358, powerPillValue=-894, ghostValue=6299, deathValue=-6679, winValue=-5702, stepValue=-298, dangerDistance=83, killDistance=61, mutated=0]
+0	20
+1	20
+2	20
+Testing fitness for: [pillValue=871, pillMultiplier=6.852614498371018, powerPillValue=-587, ghostValue=9803, deathValue=-831, winValue=-2456, stepValue=-527, dangerDistance=48, killDistance=83, mutated=0]
+0	60
+1	60
+2	60

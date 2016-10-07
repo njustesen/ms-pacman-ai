@@ -1,0 +1,26 @@
+<node m="LEFT" avg="-488" vis="684" t="0">
+	<node m="RIGHT" avg="-500" vis="1" t="126"/>
+	<node m="DOWN" avg="-500" vis="330" t="12">
+		<node m="RIGHT" avg="-500" vis="329" t="126"/>
+	</node>
+	<node m="LEFT" avg="-478" vis="353" t="12">
+		<node m="UP" avg="-477" vis="176" t="28">
+			<node m="RIGHT" avg="-473" vis="88" t="48">
+				<node m="RIGHT" avg="-473" vis="86" t="60"/>
+				<node m="DOWN" avg="-500" vis="1" t="198"/>
+			</node>
+			<node m="LEFT" avg="-480" vis="87" t="64"/>
+		</node>
+		<node m="DOWN" avg="-479" vis="176" t="24">
+			<node m="LEFT" avg="-479" vis="175" t="36">
+				<node m="UP" avg="-480" vis="87" t="52">
+					<node m="LEFT" avg="-480" vis="86" t="64"/>
+				</node>
+				<node m="DOWN" avg="-477" vis="87" t="48">
+					<node m="RIGHT" avg="-474" vis="43" t="60"/>
+					<node m="LEFT" avg="-480" vis="43" t="60"/>
+				</node>
+			</node>
+		</node>
+	</node>
+</node>

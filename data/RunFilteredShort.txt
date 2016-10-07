@@ -1,0 +1,79 @@
+Best of generation 0: 3290.0 avg: 277.1666666666667 - [pillValue=-720, pillMultiplier=-6.504914728479103, powerPillValue=-982, ghostValue=7710, deathValue=-7148, winValue=79, stepValue=871, dangerDistance=80, killDistance=27 mutated=0]
+
+Best of generation 1: 3483.3333333333335 avg: 554.0 - [pillValue=-720, pillMultiplier=-6.504914728479103, powerPillValue=-982, ghostValue=7710, deathValue=-7148, winValue=79, stepValue=871, dangerDistance=80, killDistance=27 mutated=0]
+
+Best of generation 2: 16146.666666666666 avg: 1250.5 - [pillValue=715, pillMultiplier=-5.045801427458425, powerPillValue=-563, ghostValue=7607, deathValue=-6999, winValue=2993, stepValue=243, dangerDistance=6, killDistance=4 mutated=2]
+
+Best of generation 3: 14153.333333333334 avg: 2210.8333333333335 - [pillValue=715, pillMultiplier=-5.045801427458425, powerPillValue=968, ghostValue=3391, deathValue=-6999, winValue=5277, stepValue=243, dangerDistance=13, killDistance=4 mutated=2]
+
+Best of generation 4: 13480.0 avg: 3703.5 - [pillValue=715, pillMultiplier=-5.045801427458425, powerPillValue=-563, ghostValue=7607, deathValue=-6999, winValue=2993, stepValue=782, dangerDistance=6, killDistance=4 mutated=0]
+
+Best of generation 5: 22473.333333333332 avg: 5120.166666666667 - [pillValue=715, pillMultiplier=-5.045801427458425, powerPillValue=-563, ghostValue=7607, deathValue=-6999, winValue=2993, stepValue=782, dangerDistance=6, killDistance=4 mutated=0]
+
+Best of generation 6: 17013.333333333332 avg: 7895.000000000002 - [pillValue=715, pillMultiplier=-5.045801427458425, powerPillValue=968, ghostValue=7710, deathValue=-6999, winValue=5277, stepValue=983, dangerDistance=92, killDistance=4 mutated=0]
+
+Best of generation 7: 22233.333333333332 avg: 10917.833333333334 - [pillValue=479, pillMultiplier=-5.045801427458425, powerPillValue=-563, ghostValue=7607, deathValue=-6999, winValue=2993, stepValue=782, dangerDistance=6, killDistance=4 mutated=1]
+
+Best of generation 8: 18800.0 avg: 10465.333333333332 - [pillValue=-720, pillMultiplier=-9.950284957885742, powerPillValue=968, ghostValue=7710, deathValue=-4741, winValue=4586, stepValue=983, dangerDistance=92, killDistance=4, mutated=2]
+
+Best of generation 9: 22243.333333333332 avg: 14286.5 - [pillValue=248, pillMultiplier=-5.045801639556885, powerPillValue=898, ghostValue=7183, deathValue=-8513, winValue=8424, stepValue=866, dangerDistance=78, killDistance=4, mutated=1]
+
+Best of generation 10: 19546.666666666668 avg: 8987.999999999998 - [pillValue=248, pillMultiplier=5.891869074508573, powerPillValue=898, ghostValue=7183, deathValue=-6999, winValue=8424, stepValue=866, dangerDistance=78, killDistance=4, mutated=0]
+
+Best of generation 11: 21816.666666666668 avg: 13538.666666666666 - [pillValue=248, pillMultiplier=-5.045801639556885, powerPillValue=898, ghostValue=7607, deathValue=-6999, winValue=8424, stepValue=866, dangerDistance=78, killDistance=4, mutated=0]
+
+Best of generation 12: 20600.0 avg: 12943.499999999998 - [pillValue=750, pillMultiplier=-5.045801639556885, powerPillValue=-563, ghostValue=7607, deathValue=-8513, winValue=8424, stepValue=866, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 13: 19526.666666666668 avg: 10752.833333333332 - [pillValue=248, pillMultiplier=-5.045801639556885, powerPillValue=898, ghostValue=7183, deathValue=-6999, winValue=8424, stepValue=866, dangerDistance=78, killDistance=4, mutated=0]
+
+Best of generation 14: 24963.333333333332 avg: 12873.833333333332 - [pillValue=-160, pillMultiplier=-5.045801639556885, powerPillValue=202, ghostValue=7607, deathValue=-8513, winValue=-425, stepValue=866, dangerDistance=79, killDistance=4, mutated=2]
+
+Best of generation 15: 20410.0 avg: 12730.833333333332 - [pillValue=479, pillMultiplier=-6.429901478798716, powerPillValue=173, ghostValue=7607, deathValue=-8513, winValue=-1004, stepValue=866, dangerDistance=79, killDistance=4, mutated=2]
+
+Best of generation 16: 20730.0 avg: 13696.333333333334 - [pillValue=248, pillMultiplier=-5.045801639556885, powerPillValue=-563, ghostValue=7607, deathValue=-6999, winValue=4586, stepValue=866, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 17: 27140.0 avg: 16749.666666666668 - [pillValue=248, pillMultiplier=-5.045801639556885, powerPillValue=-870, ghostValue=7607, deathValue=-6999, winValue=6768, stepValue=866, dangerDistance=79, killDistance=4, mutated=1]
+
+Best of generation 18: 18140.0 avg: 12286.833333333332 - [pillValue=454, pillMultiplier=2.924058132042619, powerPillValue=903, ghostValue=7607, deathValue=-8513, winValue=2404, stepValue=866, dangerDistance=79, killDistance=4, mutated=4]
+
+Best of generation 19: 21326.666666666668 avg: 10865.666666666666 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-563, ghostValue=7607, deathValue=-8513, winValue=3412, stepValue=739, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 20: 20396.666666666668 avg: 11741.166666666666 - [pillValue=248, pillMultiplier=-7.688026455793969, powerPillValue=-292, ghostValue=7478, deathValue=-4312, winValue=6838, stepValue=866, dangerDistance=79, killDistance=4, mutated=1]
+
+Best of generation 21: 18890.0 avg: 10134.666666666668 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-563, ghostValue=7607, deathValue=-8513, winValue=3412, stepValue=739, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 22: 25170.0 avg: 13131.333333333334 - [pillValue=862, pillMultiplier=3.1854737562458, powerPillValue=173, ghostValue=7607, deathValue=-8513, winValue=3412, stepValue=866, dangerDistance=79, killDistance=4, mutated=1]
+
+Best of generation 23: 26696.666666666668 avg: 13142.833333333334 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-563, ghostValue=7607, deathValue=-8513, winValue=3412, stepValue=739, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 24: 20423.333333333332 avg: 10861.499999999998 - [pillValue=224, pillMultiplier=-7.191545332245186, powerPillValue=987, ghostValue=7607, deathValue=-4352, winValue=2404, stepValue=866, dangerDistance=71, killDistance=4, mutated=4]
+
+Best of generation 25: 19503.333333333332 avg: 10623.833333333332 - [pillValue=-424, pillMultiplier=3.1854737562458, powerPillValue=-563, ghostValue=7607, deathValue=-8513, winValue=3412, stepValue=739, dangerDistance=79, killDistance=4, mutated=1]
+
+Best of generation 26: 25110.0 avg: 12531.166666666668 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=714, ghostValue=7607, deathValue=-8513, winValue=-1992, stepValue=407, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 27: 20646.666666666668 avg: 11062.833333333332 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-563, ghostValue=7607, deathValue=-8513, winValue=-1992, stepValue=265, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 28: 25353.333333333332 avg: 14906.0 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=173, ghostValue=7607, deathValue=-8513, winValue=3412, stepValue=407, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 29: 21356.666666666668 avg: 12479.0 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-966, ghostValue=9150, deathValue=-8513, winValue=-1992, stepValue=407, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 30: 21696.666666666668 avg: 12754.666666666668 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-986, ghostValue=9768, deathValue=-8513, winValue=2404, stepValue=265, dangerDistance=71, killDistance=4, mutated=3]
+
+Best of generation 31: 32853.333333333336 avg: 11585.166666666666 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-986, ghostValue=9768, deathValue=-8513, winValue=2404, stepValue=265, dangerDistance=71, killDistance=4, mutated=3]
+
+Best of generation 32: 24123.333333333332 avg: 12049.833333333332 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-966, ghostValue=9768, deathValue=-8513, winValue=2404, stepValue=265, dangerDistance=21, killDistance=4, mutated=1]
+
+Best of generation 33: 23230.0 avg: 10730.833333333334 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-966, ghostValue=9150, deathValue=-8513, winValue=-4657, stepValue=838, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 34: 23403.333333333332 avg: 12974.166666666668 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=688, ghostValue=9150, deathValue=-8513, winValue=9752, stepValue=407, dangerDistance=79, killDistance=4, mutated=2]
+
+Best of generation 35: 25286.666666666668 avg: 12360.333333333332 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=173, ghostValue=9150, deathValue=-8513, winValue=3055, stepValue=407, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 36: 27513.333333333332 avg: 11619.166666666668 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=-996, ghostValue=9150, deathValue=-8513, winValue=9752, stepValue=407, dangerDistance=34, killDistance=4, mutated=2]
+
+Best of generation 37: 26523.333333333332 avg: 13644.333333333334 - [pillValue=473, pillMultiplier=-2.133471344480622, powerPillValue=688, ghostValue=9768, deathValue=-8513, winValue=3055, stepValue=521, dangerDistance=79, killDistance=4, mutated=1]
+
+Best of generation 38: 21100.0 avg: 11395.333333333332 - [pillValue=-286, pillMultiplier=3.1854737562458, powerPillValue=688, ghostValue=9150, deathValue=-8513, winValue=3055, stepValue=775, dangerDistance=79, killDistance=4, mutated=0]
+
+Best of generation 39: 22400.0 avg: 11870.333333333334 - [pillValue=473, pillMultiplier=3.1854737562458, powerPillValue=688, ghostValue=9768, deathValue=-8513, winValue=3055, stepValue=521, dangerDistance=79, killDistance=4, mutated=0]n
